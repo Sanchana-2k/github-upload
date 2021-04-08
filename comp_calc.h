@@ -36,5 +36,13 @@ float imaginary;
  */
 int sum(int n1, int n2);
 
+/**
+ * @brief To calc the square of a number
+ * 
+ * @param n 
+ * @return int 
+ */
+int sqr(int n);
+
 
 #endif

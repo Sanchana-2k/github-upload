@@ -1,5 +1,5 @@
 test.exe: test.c sum.c
-	gcc test.c sum.c -o test.exe
+	gcc test.c sum.c sqr.c -o test.exe
 
 remove:
 	del /q *.exe

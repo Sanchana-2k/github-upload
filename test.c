@@ -2,7 +2,8 @@
 #include "comp_calc.h"
 
 int main() {
-    printf ("%d",sum(10,2));
+    printf ("Sum = %d\n",sum(10,2));
+    printf ("Square = %d\n",sqr(10));
 
     return 0;
 }
